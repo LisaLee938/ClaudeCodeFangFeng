@@ -1,4 +1,4 @@
-# 2026最新 Claude / Claude Code 防封指南：底层风控逻辑详解与国内终极解决方案
+# Claude Code 防封号指南：底层风控逻辑详解与国内终极解决方案
 
 最近很多人跟我反映，Claude 突然用不了了。
 
@@ -93,4 +93,4 @@ Claude 也一样。**你的人类真实行为，和 Anthropic 系统定义的人
 
 你所有的网络伪装、底层路由、使用习惯，都要让系统的数据探针得出这个唯一的画像。做到这些，你的 Claude 账号会比 99% 的人都更稳固。
 
-[Claude Code 可用机场推荐](https://github.com/LisaLee938/kexueshangwang)
+## [Claude Code 可用机场推荐](https://github.com/LisaLee938/kexueshangwang)
